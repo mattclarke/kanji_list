@@ -5,7 +5,11 @@
         "level": "4",
         "meaning": "love",
         "readings": ["アイ"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["愛情", "あいじょう", "love, affection"],
+            ["恋愛", "れんあい", "love; love-making"],
+            ["友愛", "ゆうあい", "friendship"]
+        ]
     },
     {
         "id": 13,
@@ -13,7 +17,11 @@
         "level": "4",
         "meaning": "plan",
         "readings": ["アン"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["案内", "あんない", "guidance"],
+            ["案外", "あんがい", "unexpectedly"],
+            ["提案", "ていあん", "proposal; suggestion"]
+        ]
     },
     {
         "id": 15,
@@ -21,7 +29,12 @@
         "level": "4",
         "meaning": "by means of",
         "readings": ["イ"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["以上", "いじょう", "more than; beyond"],
+            ["以内", "いない", "within; less than"],
+            ["以外", "いがい", "with the exception of"],
+            ["以来", "いらい", "since"]
+        ]
     },
     {
         "id": 16,
@@ -29,7 +42,10 @@
         "level": "4",
         "meaning": "clothes",
         "readings": ["イ", "ころも"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["衣服", "いふく", "clothes"],
+            ["衣料", "いりょう", "clothing"]
+        ]
     },
     {
         "id": 17,
@@ -45,7 +61,11 @@
         "level": "4",
         "meaning": "surround",
         "readings": ["イ", "かこ-む", "かこ-う"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["囲む", "かこ-む", "to surround"],
+            ["周囲", "しゅうい", "surroundings; environs"],
+            ["範囲", " はんい ", "extent; scope; sphere"]
+        ]
     },
     {
         "id": 25,
@@ -85,7 +105,11 @@
         "level": "4",
         "meaning": "salt",
         "readings": ["エン", "しお"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["塩辛い", "しおから", "salty (taste)"],
+            ["塩素", "えんそ", "chlorine"],
+            ["塩分", "えんぶん", "salt content"]
+        ]
     },
     {
         "id": 120,
@@ -93,7 +117,10 @@
         "level": "4",
         "meaning": "hundred million",
         "readings": ["オク"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["億万", "おくまん", "millions and millions"],
+            ["億劫", "おっくう", "troublesome"]
+        ]
     },
     {
         "id": 134,
@@ -101,7 +128,11 @@
         "level": "4",
         "meaning": "add",
         "readings": ["カ", "くわ-える", "くわ-わる"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["加える", "くわ-える", "to add; to increase"],
+            ["加わる", "くわ-わる", "to be added to"],
+            ["加減", "かげん", "extent; condition"]
+        ]
     },
     {
         "id": 141,
@@ -179,9 +210,14 @@
         "id": 218,
         "kanji": ["覚"],
         "level": "4",
-        "meaning": "memorize",
+        "meaning": "memorise",
         "readings": ["カク", "おぼ-える", "さ-ます", "さ-める"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["覚える", "おぼ-える", "to memorise; to learn"],
+            ["感覚", "かんかく", "sense; feeling"],
+            ["発覚", "はっかく", "detection; discovery"],
+            ["覚悟", "かくご", "readiness"]
+        ]
     },
     {
         "id": 252,
@@ -357,7 +393,11 @@
         "level": "4",
         "meaning": "cooperation",
         "readings": ["キョウ"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["協会", "きょうかい", "association; society"],
+            ["協定", "きょうてい", "arrangement; pact"],
+            ["協議", "きょうぎ", "conference; discussion"]
+        ]
     },
     {
         "id": 416,
@@ -445,7 +485,12 @@
         "level": "4",
         "meaning": "lack",
         "readings": ["ケツ", "か-ける", "か-く"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["欠ける", "か-ける", "to be damaged; to be lacking"],
+            ["不可欠", "ふかけつ", "indispenable"],
+            ["欠席", "けっせき", "absence"],
+            ["欠点", "けってん", "fault; defect; weakness"]
+        ]
     },
     {
         "id": 510,
@@ -877,7 +922,12 @@
         "level": "4",
         "meaning": "accumulate",
         "readings": ["セキ", "つ-む", "つ-もる"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["積もる", "つ-もる", "to pile up; to accumulate"],
+            ["積", "つ-む", "to pile up; to stack​; to load"],
+            ["面積", "めんせき", "area; surface"],
+            ["積極的", "せっきょくてき", "positive; assertive"]
+        ]
     },
     {
         "id": 1155,
@@ -917,7 +967,11 @@
         "level": "4",
         "meaning": "war",
         "readings": ["セン", "いくさ", "たたか-う"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["戦う", "たたか-う", "to fight; to battle"],
+            ["戦闘", "せんとう", "battle; combat"],
+            ["戦術", "せんじゅつ", "tactics​"]
+        ]
     },
     {
         "id": 1192,
@@ -941,7 +995,11 @@
         "level": "4",
         "meaning": "conflict",
         "readings": ["ソウ", "あらそ-う"],
-        "compounds": [["", "", ""]]
+        "compounds": [
+            ["争う", "あらそ-う", "to compete; to quarrel"],
+            ["戦争", "せんそう", "war"],
+            ["争議", "そうぎ", "dispute; quarrel"],
+        ]
     },
     {
         "id": 1227,
